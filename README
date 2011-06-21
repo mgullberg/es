@@ -1,0 +1,7 @@
+Eiffel Syntax converter to Scala
+This applicaton written in Eiffer is a parser from Eiffel syntex to Scala programming language.
+The purpuse is be able to convert Eifferl program into Scala fairly efficient. 
+Untill tried I have just a ide of it is possible or not.
+If I don't try I will propperby never know unless some one else do it first!
+
+
